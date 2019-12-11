@@ -1,5 +1,5 @@
 my:
-  name: tomTest1
+  name: tomTest1 git resource
   age: 20
   gender: boy
   id: 100
